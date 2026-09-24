@@ -1,0 +1,23 @@
+{
+  "repo": "solveigmm-video-complete-2026",
+  "product": "SolveigMM Video Complete 2026",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "video-editing",
+  "topics": [
+    "solveigmm-video-complete",
+    "solveigmm-windows",
+    "video-editing-desktop",
+    "how-to-install-solveigmm",
+    "solveigmm-video-complete-desktop-package",
+    "solveigmm-workspace",
+    "solveigmm-2026",
+    "solveigmm-video-complete-pro-tools",
+    "solveigmm-suite",
+    "zentool-solveigmm"
+  ],
+  "site": "zentool.art"
+}
